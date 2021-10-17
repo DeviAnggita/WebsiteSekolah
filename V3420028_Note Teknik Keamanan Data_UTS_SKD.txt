@@ -1,3 +1,4 @@
+Folder utama yang digunakan adalah UTS_SKD
 
 REGISTRASI LOGIN
 MD5 
