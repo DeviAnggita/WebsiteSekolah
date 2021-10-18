@@ -8,4 +8,5 @@ seperti
 - RSA 
 - MD5
 - SHA
-By Devi Anggita A.
+
+-By Devi Anggita A.-
